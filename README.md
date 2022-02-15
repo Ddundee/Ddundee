@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a hobbyist with a passion for learning and developing code. I am currently a high schooler discovering the depths of Frontend Development.
+I am a high schooler who is in love with programing (backend, and frontend seem awesome to me). I also enjoy remaking cool photos in vectors, and editing videos. I am currently relearning frontend, since my foundation was never great, so that I learn and develop a web based application using Native React, and other React based frameworks. 
 
 ##### Skills
 
