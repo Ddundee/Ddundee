@@ -8,6 +8,11 @@ I am a high schooler who is in love with programing (backend, and frontend seem 
 
 ##### Skills
 
-- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html), [Adobe Premier Pro](https://www.adobe.com/products/premiere.html), [Adobe XD](https://www.adobe.com/products/xd.html)
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) / [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-- [NodeJS](https://nodejs.org/en/)
+- Applications: Adobe Photoshop, Adobe Premier Pro, Adobe XD
+- Language: HTML5, CSS3, Java, Javascript, & Python
+- Libraries, Frameworks, & etc...: NextJS, ReactJS, Electron, TailwindCSS
+
+##### Goals
+
+- Get Certifications: After Effects, Animate, Dreamweaver, Illustrator, InDesign, Java
+- Learn Libraries: Angular, VueJS
