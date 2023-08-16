@@ -4,7 +4,8 @@
 
 ### About Me
 
-I am a high schooler who is in love with programing (backend, and frontend seem awesome to me). I also enjoy remaking cool photos in vectors, and editing videos. I am currently relearning frontend, since my foundation was never great, so that I learn and develop a web based application using Native React, and other React based frameworks. 
+<p><s>I am a high schooler who is in love with programing (backend, and frontend seem awesome to me). I also enjoy remaking cool photos in vectors, and editing videos. I am currently relearning frontend, since my foundation was never great, so that I learn and develop a web based application using Native React, and other React based frameworks.</s></p>
+Sourcing through O'Reily Books.
 
 Website: [dcwork.vercel.app](https://dcwork.vercel.app)
 
