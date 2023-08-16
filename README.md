@@ -15,7 +15,7 @@ Website: [dcwork.vercel.app](https://dcwork.vercel.app)
 - Language: HTML5, CSS3, Java, Javascript, & Python
 - Libraries, Frameworks, & etc...: NextJS, ReactJS, Electron, TailwindCSS
 
-##### Goals
+ <h5><s>Goals</s> New Skills</h5> 
 
 - Get Certifications: After Effects, Animate, Dreamweaver, Illustrator, InDesign, Java
 - Learn Libraries: Angular, VueJS
