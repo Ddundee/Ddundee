@@ -7,4 +7,4 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javaastro,docker,electron,gcp,git,java,js,mongodb,nextjs,opencv,ps,pr,py,react,tailwind,ts,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,ts,astro,react,electron,nextjs,tailwind,docker,git,gcp,mongodb,vim,ps,pr&theme=dark)](https://skillicons.dev)
