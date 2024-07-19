@@ -1,4 +1,4 @@
-![Github Overview](https://raw.githubusercontent.com/Ddundee/Ddundee/d5849a240ad8b5380812a0f614d21f1521bde3fd/intro.svg)
+![Github Overview](https://raw.githubusercontent.com/Ddundee/Ddundee/main/intro.svg)
 
 * 🌎 I'm based in Blacksburg - Virginia
 * ✉️ You can reach me at [dhanushc@vt.edu](mailto:dhanushc@vt.edu)
